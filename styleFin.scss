@@ -1,0 +1,72 @@
+//Parties 
+body {
+    background-color: #f2f2f2;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pageFin {
+
+    border: none;
+    text-align: justify;
+    padding: 0px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: -77px;
+    background-color: white;
+
+}
+header {
+    background-image: url('img/festival.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+#page3{
+    display: block;
+}
+#page4{
+    display: none;
+}
+footer{
+    background-image: url('img/Bloc_thalys.png');
+}
+//Inputs 
+.retour{
+    background-color: #c02634;
+    color: white;
+    width: 375px;
+    height: 37px;
+    border: none;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2%;
+    font-weight: bold;
+    display: block;
+   
+    font-size: 19px;
+    margin-bottom: 2%;
+}
+
+//Textes
+.valid_part{
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-top:5%;
+}
+//Images 
+#logo_thalys{
+    margin-top: -71px;
+    margin-left: 86px;
+    transform: scale(0.8);
+}
+#img_bas{
+    background-image: url(img\Bloc_marque.jpg);
+}
+//Media queies 
+
+
